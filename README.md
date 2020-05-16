@@ -44,7 +44,7 @@ A tela de **Listagem** foi ideia minha e uma funciolidade adicional ao sistema. 
 
 ![](/img/menu-ajuda-tela-sobre.png)
 
-O menu de **Ajuda** com a opção _Sobre_ estava na proposta inicial do projeto, mas sem um layout específico para ser desenvolvido. A princípio utilizei um 'JOptionPane.showMessageDialog()' para mostrar uma tela com informações básicas ao usuário. Porém, pesquisando mais a fundo consegui inserir esse outro JFrame, o que na minha opinião deixou essa opção mais bonita de visualizar.
+O menu de **Ajuda** com a opção _Sobre_ estava na proposta inicial do projeto, mas sem um layout específico para ser desenvolvido. A princípio utilizei um _JOptionPane.showMessageDialog();_ para mostrar uma tela com informações básicas ao usuário. Porém, pesquisando mais a fundo consegui inserir esse outro JFrame, o que na minha opinião deixou essa opção mais bonita de visualizar.
 
 ---
 

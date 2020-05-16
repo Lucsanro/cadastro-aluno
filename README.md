@@ -1,6 +1,6 @@
 <h1 align="center">Cadastro de Aluno</h1>
 
-<center><img src="/img/tela-inicial.png"></center>
+<div style = "text-align: center"> <img src = "/img/tela-inicial.png"/> </div>
 
 ---
 

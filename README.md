@@ -4,7 +4,7 @@
 
 ---
 
-Hey, do you not read in portuguese :brazil:? Click [here](#abstract-in-english) to read in English :us: an abstract about this repository! 
+_Hey, do you not read in portuguese :brazil:? Click [here](#abstract-in-english) to read in English :us: an abstract about this repository!_
 
 O Cadastro de Aluno foi um projeto acadêmico desenvolvido para a disciplina de Técnicas de Programação, com objetivo de aprofundar o conhecimento na linguagem Java e aplicar conceitos do padrão MVC.
 
@@ -44,7 +44,7 @@ A tela de **Listagem** foi ideia minha e uma funciolidade adicional ao sistema. 
 
 ![](/img/menu-ajuda-tela-sobre.png)
 
-O menu de **Ajuda** com a opção _Sobre_ estava na proposta inicial do projeto, mas sem um layout específico para ser desenvolvido. A princípio utilizei um 'JOptionPane.showMessageDialog();' para mostrar uma tela com informações básicas ao usuário. Porém, pesquisando mais a fundo consegui inserir esse outro JFrame, o que na minha opinião deixou essa opção mais bonita de visualizar.
+O menu de **Ajuda** com a opção _Sobre_ estava na proposta inicial do projeto, mas sem um layout específico para ser desenvolvido. A princípio utilizei um 'JOptionPane.showMessageDialog()' para mostrar uma tela com informações básicas ao usuário. Porém, pesquisando mais a fundo consegui inserir esse outro JFrame, o que na minha opinião deixou essa opção mais bonita de visualizar.
 
 ---
 

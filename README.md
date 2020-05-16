@@ -20,7 +20,7 @@ O painel de **Curso** apresenta o curso, campus e período que o aluno estuda. E
 
 ## Notas e Faltas
 
-O sistema também permite a inserção das notas desses estudantes, por menu do painel de _Notas e Faltas_.
+O sistema também permite a inserção das notas desses estudantes.
 
 ![](/img/tela-notas.png)
 

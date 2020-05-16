@@ -8,7 +8,7 @@ _Hey, do you not read in portuguese :brazil:? Click [here](#abstract-in-english)
 
 O Cadastro de Aluno foi um projeto acadêmico desenvolvido para a disciplina de Técnicas de Programação, com objetivo de aprofundar o conhecimento na linguagem Java e aplicar conceitos do padrão MVC.
 
-A proposta era desenvolver um sistema que permitisse cadastrar alunos, alterar seus registros, consultar suas informações e excluir caso preciso. Essas ações ficam disponíveis no menu **Aluno** :student:.
+A proposta era desenvolver um sistema com as operações básicas do CRUD, ou seja, que permitisse cadastrar alunos, alterar seus registros, consultar suas informações e excluir caso preciso. Essas ações ficam disponíveis no menu **Aluno** :student:.
 
 ![](/img/menu-aluno-opcoes.png)
 

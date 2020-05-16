@@ -1,6 +1,6 @@
-<h1 align="center">Cadastro de Aluno</h1>
+# Cadastro de Aluno
 
-<div style = "text-align: center"> <img src = "/img/tela-inicial.png"/> </div>
+![](/img/tela-inicial.png/)
 
 ---
 
@@ -10,11 +10,11 @@ O Cadastro de Aluno foi um projeto acadêmico desenvolvido para a disciplina de 
 
 A proposta era desenvolver um sistema que permitisse cadastrar alunos, alterar seus registros, consultar suas informações e excluir caso preciso. Essas ações ficam disponíveis no menu **Aluno** :student:.
 
-<center><img src="/img/menu-aluno-opcoes.png"></center>
+![](/img/menu-aluno-opcoes.png)
 
 ## Curso
 
-<center><img src="/img/tela-curso.png"></center>
+![](/img/tela-curso.png)
 
 O painel de **Curso** apresenta o curso, campus e período que o aluno estuda. Essas informações são armazenadas também através do menu _Aluno_.
 
@@ -22,7 +22,7 @@ O painel de **Curso** apresenta o curso, campus e período que o aluno estuda. E
 
 O sistema também permite a inserção das notas desses estudantes, por menu do painel de _Notas e Faltas_.
 
-<center><img src="/img/tela-notas.png"></center>
+![](/img/tela-notas.png)
 
 Assim como o cadastro dos alunos, as notas podem receber as operações de salvar, alterar, consultar e excluir, disponíveis no menu **Notas e Faltas** :bookmark_tabs:.
 
@@ -30,13 +30,13 @@ Assim como o cadastro dos alunos, as notas podem receber as operações de salva
 
 Criado o aluno e inserido suas notas, é hora de gerar o _Boletim_ :scroll:.
 
-<center><img src="/img/tela-boletim.png"></center>
+![](/img/tela-boletim.png)
 
 A tela de **Boletim** ficou a cargo de cada aluno desenvolver a sua. A única sugestão adicional do professor foi a inserção do JTable, para melhor visualização. É uma tela que pede somente o RGM do aluno para retornar suas principais informações.
 
 ## Listagem
 
-<center><img src="/img/tela-listagem.png"></center>
+![](/img/tela-listagem.png)
 
 A tela de **Listagem** foi ideia minha e uma funciolidade adicional ao sistema. O funcionamento dela é muito simples: Retorna todos os alunos cadastrados no sistema. Literalmente é um _SELECT_ da tabela de alunos. Com essas informações básicas do aluno, é possível realizar com mais consciência ações como consultar ou alterar algum registro.
 
@@ -44,7 +44,7 @@ A tela de **Listagem** foi ideia minha e uma funciolidade adicional ao sistema. 
 
 # Validação
 
-<center><img src="/img/validacao.png"></center>
+![](/img/validacao.png)
 
 A validação era um dos requisitos para a entrega definitiva do projeto. Todos os campos digitáveis contém algum tipo de validação quanto ao preenchimento. Por exemplo, se estiveressem vazios, uma mensagem será mostrada ao usuário. Os campos de _RGM_ só irão aceitar números, e o campo _NOME_ somente aceitará letras.
 
